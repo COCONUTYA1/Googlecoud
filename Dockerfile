@@ -1,1 +1,1 @@
-FROM google_containers/etcd:3.4.13-0
+FROM google_containers/etcd
