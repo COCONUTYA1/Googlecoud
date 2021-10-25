@@ -1,1 +1,1 @@
-FROM google_containers/etcd
+FROM gcr.io/google-containers/coredns
