@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/coredns:1.7.0
+FROM quay.io/cilium/cilium:v1.10.5
